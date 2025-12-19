@@ -1,6 +1,6 @@
 ---
 authors:
-  - name: 
+  - name: null
 ---
 
 # 3 Preserving Digital Audio
@@ -73,5 +73,3 @@ Other metadata schemes are outlined by [IASA](https://www.iasa-web.org/tc04/basi
 ## 3.4 Copyright
 
 As highlighted in Section 2, data creators should be aware of the various rights involved in recording people and should ensure that the relevant rights and clearances are attained. These issues are discussed in detail in the JISC Digital Media document 'Copyright and Other Rights for Creating Time-based Media Resources'.
-
-----

@@ -1,6 +1,6 @@
 ---
 authors:
-  - name: 
+  - name: null
 ---
 
 # 1 Introduction to Digital Audio

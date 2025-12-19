@@ -1,6 +1,6 @@
 ---
 authors:
-  - name: 
+  - name: null
 ---
 
 # 2 Creating Digital Audio
@@ -80,6 +80,3 @@ As a general guide - and one that is repeated throughout these Guides - it is ad
   - As with other Xiph.Org Foundation formats (e.g. Vorbis, FLAC), Speex is a free and open codec. Speex is targetted specifically at providing high quality compressed voice/speech files.
   - Suitable for dissemination but not for preservation.
 ```
-
-----
-
