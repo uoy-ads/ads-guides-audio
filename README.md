@@ -4,7 +4,7 @@
 
 Welcome to the repository for the *Digital Audio: A Guide to Good Practice*. The guide and this repository is maintained by staff at the [Archaeology Data Service](https://archaeologydataservice.ac.uk/).
 
-The published version of this material is available at: [https://doi.org/10.5284/40fr-fr91]
+The published version of this material is available at: https://doi.org/10.5284/40fr-fr91
 
 All material in this guide is available open access under a CC-BY 4.0 licence.
 
